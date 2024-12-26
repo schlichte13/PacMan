@@ -1,0 +1,3 @@
+import pinkyPath
+
+print(score)
